@@ -6,6 +6,11 @@ Welcome to TekNoiseLab! Here you'll find my open-source hardware projects relate
 
 Contributions are welcome! If you find bugs, have suggestions for improvement, or want to contribute to the projects yourself, please create an issue or a pull request.
 
+## Part Sourcing Help
+Most of the used parts are standard components that can be sourced from various suppliers.
+But in many projects I use the PJM323 jack, which is a bit hard to find. I ordered mine [here](https://www.alibaba.com/product-detail/PJ-323M-Screw-Telephone-Jack-3_1600998849510.html?spm=a2756.trade-list-buyer.0.0.374776e97smktV)
+
+
 ## Eurorack Modules (Audio and CV)
 | Project  | Description | Width | Image |
 | ------------- | ------------- | ------------- | ------------- |
