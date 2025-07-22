@@ -25,6 +25,7 @@ But in many projects I use the PJM323 jack, which is a bit hard to find. I order
 ## Eurorack Modules (Video)
 | Project  | Description | Width | Image |
 | ------------- | ------------- | ------------- | ------------- |
+| [recurBOY Eurorack](https://github.com/TekNoiseLab/recurBOY-Eurorack) | The recurBoy as a Eurorack module with USB-A port. | 16HP | <img src="https://github.com/TekNoiseLab/recurBOY-Eurorack/blob/main/Images/front.jpeg?raw=true" height="150"> |
 | [dirty video mixer](https://github.com/TekNoiseLab/dirty-video-mixer) | Dirty Video Mixer with CV input. | 6HP | <img src="https://github.com/TekNoiseLab/dirty-video-mixer/blob/main/Images/front.jpeg?raw=true" height="150"> |
 | [video multiple](https://github.com/TekNoiseLab/video-multiple) | A simple 2x3 video multiplier. | 4HP | <img src="https://github.com/TekNoiseLab/video-multiple/blob/main/Images/front_back.jpeg?raw=true" height="150"> |
 
