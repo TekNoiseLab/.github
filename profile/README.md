@@ -14,6 +14,7 @@ But in many projects I use the PJM323 jack, which is a bit hard to find. I order
 ## Eurorack Modules (Audio and CV)
 | Project  | Description | Width | Image |
 | ------------- | ------------- | ------------- | ------------- |
+| [twin-t-kick-drum](https://github.com/TekNoiseLab/twin-t-kick-drum) | simple kick drum module based on krakenpine's design. | 4HP | <img src="https://github.com/TekNoiseLab/twin-t-kick-drum/blob/main/Images/front.jpeg?raw=true" height="150"> |
 | [vca](https://github.com/TekNoiseLab/vca) | A basic VCA (Voltage Controlled Amplifier/Attenuator) for audio signals. | 4HP | <img src="https://github.com/TekNoiseLab/vca/blob/main/Images/front.jpeg?raw=true" height="150"> |
 | [simple mixer](https://github.com/TekNoiseLab/simple-mixer) | A simple 3-channel mixer for CV and audio | 4HP | <img src="https://github.com/TekNoiseLab/simple-mixer/blob/main/Images/front.jpeg?raw=true" height="150"> |
 | [envf](https://github.com/TekNoiseLab/envf) | Envelope follower, based on a peak detector circuit. | 4HP | <img src="https://github.com/TekNoiseLab/envf/blob/main/Images/front.jpeg?raw=true" height="150"> |
