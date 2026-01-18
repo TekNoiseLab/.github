@@ -24,6 +24,7 @@ But in many projects I use the PJM323 jack, which is a bit hard to find. I order
 | [Buffered Multiple](https://github.com/TekNoiseLab/buffered-multiple) | Buffered multiple (1x6/2x3) with LED-indicators. | 4HP | <img src="https://github.com/TekNoiseLab/buffered-multiple/blob/main/Images/buffered_multiple.jpeg?raw=true" height="150"> |
 | [Passive Multiple 1x6/2x3](https://github.com/TekNoiseLab/passive-multiple-1x6-2x3/) | Basic passive multiple 1x6/2x3. | 2HP | <img src="https://github.com/TekNoiseLab/passive-multiple-1x6-2x3/blob/main/Images/passive_multiple.jpeg?raw=true" height="150"> |
 | [Simple Slew Limiter](https://github.com/TekNoiseLab/simple-slew-limiter) | Just a very basic 2x slew limiter. | 4HP | <img src="https://github.com/TekNoiseLab/simple-slew-limiter/blob/main/Images/front.jpeg?raw=true" height="150"> |
+| [MS20 Low Pass Filter](https://github.com/TekNoiseLab/ms20_lpf) | MS20 Low Pass Filter based on René Schmitz's design. Replicates the classic Korg MS-20 filter sound. | 4HP | <img src="https://github.com/TekNoiseLab/ms20_lpf/blob/main/Images/front.jpeg?raw=true" height="150"> |
 | [Preamp](https://github.com/TekNoiseLab/preamp) | Preamplifier for piezo pickups and other low-level audio sources. | 6HP | <img src="https://github.com/TekNoiseLab/preamp/blob/main/Images/front.jpeg?raw=true" height="150"> |
 
 ## Eurorack Modules (Video)
