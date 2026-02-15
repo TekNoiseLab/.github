@@ -27,6 +27,7 @@ But in many projects I use the PJM323 jack, which is a bit hard to find. I order
 | [MS20 Low Pass Filter](https://github.com/TekNoiseLab/ms20_lpf) | MS20 Low Pass Filter based on René Schmitz's design. Replicates the classic Korg MS-20 filter sound. | 4HP | <img src="https://github.com/TekNoiseLab/ms20_lpf/blob/main/Images/front.jpeg?raw=true" height="150"> |
 | [Preamp](https://github.com/TekNoiseLab/preamp) | Preamplifier for piezo pickups and other low-level audio sources. | 6HP | <img src="https://github.com/TekNoiseLab/preamp/blob/main/Images/front.jpeg?raw=true" height="150"> |
 | [Scaler](https://github.com/TekNoiseLab/scaler) | Module to offset or scale voltages. (Normally used for CV signals). | 4HP | <img src="https://github.com/TekNoiseLab/scaler/blob/main/Images/front.jpeg?raw=true" height="150"> |
+| [Ringmodulator](https://github.com/TekNoiseLab/ringmod) | A simple ring modulator with switch and DRY/WET control for more versatility. | 6HP | <img src="https://github.com/TekNoiseLab/ringmodulator/blob/main/Images/front.jpeg?raw=true" height="150"> |
 
 ## Eurorack Modules (Video)
 | Project  | Description | Width | Image |
